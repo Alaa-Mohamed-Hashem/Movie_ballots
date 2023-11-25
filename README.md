@@ -3,7 +3,7 @@
 # Installation:
 
 ### 1- Clone the repository:
-# <p>git clone</p>
+# git clone
 
 ### 2- Install dependencies:
 

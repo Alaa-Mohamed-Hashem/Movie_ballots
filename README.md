@@ -3,7 +3,7 @@
 # Installation:
 
 ### 1- Clone the repository:
-<p>git clone https://github.com/your-username/your-project.git</p>
+<p>git clone https://github.com/</p>
 
 ### 2- Install dependencies:
 

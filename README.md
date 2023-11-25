@@ -1,10 +1,10 @@
 # Movie-ballot
 
 # Installation:
-### 1- Clone the repository:
+### Clone the repository:
 # git clone
 
-### 2- Install dependencies:
+### Install dependencies:
 # npm install
 
 # Usage:

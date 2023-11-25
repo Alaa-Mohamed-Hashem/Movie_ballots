@@ -1,0 +1,10 @@
+.result_modal {
+  padding: 20px !important;
+}
+
+@media screen and (max-width: 600px) {
+  .result_modal {
+    height: 95vh;
+    overflow: scroll;
+  }
+}

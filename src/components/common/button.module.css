@@ -1,0 +1,43 @@
+.btn {
+  color: inherit;
+  text-transform: uppercase;
+  padding: 0.8rem 1.6rem;
+  font-family: inherit;
+  font-size: 1.5rem;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #ddd;
+  color: #fff;
+}
+
+.selectBtn {
+  margin-top: 25px;
+  padding: 8px 20px;
+  font-size: 16px;
+  background-color: #0d2436;
+}
+
+.selectBtn:disabled,
+.submit:disabled {
+  background: rgb(203, 203, 203) !important;
+  cursor: not-allowed;
+}
+
+.submit {
+  background-color: #009b86;
+  margin-top: 40px;
+}
+
+.submit:hover {
+  background-color: #34ac9c;
+}
+
+.close {
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 16px;
+  padding: 10px;
+  background-color: #009b86;
+}

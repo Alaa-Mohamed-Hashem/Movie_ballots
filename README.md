@@ -1,15 +1,6 @@
-# Your Project Name
+# Movie Ballot
 
 Brief description of your project.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Styling](#styling)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 

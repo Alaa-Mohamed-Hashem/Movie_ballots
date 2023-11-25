@@ -6,7 +6,7 @@
 # git clone
 
 ### 2- Install dependencies:
-
+npm install
 
 # Usage:
 

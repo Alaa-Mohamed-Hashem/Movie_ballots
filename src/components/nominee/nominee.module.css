@@ -1,0 +1,27 @@
+.nomineCard {
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #009b86;
+  color: #fff;
+  background: #009b86;
+}
+
+.nomineCard:hover {
+  background-color: #34ac9c;
+  color: #ccc;
+}
+
+.nomineCard img {
+  width: 30%;
+}
+
+.selectedNominee {
+  background-color: #009b86;
+  color: #fff;
+}
+
+@media screen and (max-width: 600px) {
+  .nomineCard {
+    margin-bottom: 20px;
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "ballots": [
+    {
+      "category_id": 1,
+      "nominess": [
+        {
+          "name": "breaking bad",
+          "id": 1,
+          "img": "https://pbs.twimg.com/profile_images/1498641868397191170/6qW2XkuI_400x400.png"
+        },
+        {
+          "name": "Vikings",
+          "id": 2,
+          "img": "https://pbs.twimg.com/profile_images/1498641868397191170/6qW2XkuI_400x400.png"
+        },
+        {
+          "name": "Attack on titan",
+          "id": 3,
+          "img": "https://pbs.twimg.com/profile_images/1498641868397191170/6qW2XkuI_400x400.png"
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "nominess": [
+        {
+          "name": "Real Madrid",
+          "id": 1,
+          "img": "https://pbs.twimg.com/profile_images/1498641868397191170/6qW2XkuI_400x400.png"
+        },
+        {
+          "name": "Bracelona",
+          "id": 2,
+          "img": "https://pbs.twimg.com/profile_images/1498641868397191170/6qW2XkuI_400x400.png"
+        },
+        {
+          "name": "Man City",
+          "id": 3,
+          "img": "https://pbs.twimg.com/profile_images/1498641868397191170/6qW2XkuI_400x400.png"
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "nominess": [
+        {
+          "name": "BMW",
+          "id": 1,
+          "img": "https://pbs.twimg.com/profile_images/1498641868397191170/6qW2XkuI_400x400.png"
+        },
+        {
+          "name": "KIA",
+          "id": 2,
+          "img": "https://pbs.twimg.com/profile_images/1498641868397191170/6qW2XkuI_400x400.png"
+        },
+        {
+          "name": "Mercedes",
+          "id": 3,
+          "img": "https://pbs.twimg.com/profile_images/1498641868397191170/6qW2XkuI_400x400.png"
+        }
+      ]
+    }
+  ]
+}

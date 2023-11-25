@@ -1,6 +1,4 @@
-# Movie Ballot
-
-Brief description of your project.
+# Brief description of your project.
 
 ## Installation
 

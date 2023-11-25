@@ -8,4 +8,4 @@
 # npm install
 
 # Usage:
-### 1- Clone the repository:
+### npm start

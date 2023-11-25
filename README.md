@@ -1,11 +1,19 @@
-# Movie-ballot
+# Your Project Name
 
-# Installation:
-## Clone the repository:
-### git clone
+Brief description of your project.
 
-## Install dependencies:
-### npm install
+## Table of Contents
 
-# Usage:
-### npm start
+- [Installation](#installation)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Styling](#styling)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-project.git

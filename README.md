@@ -1,3 +1,3 @@
 # Movie-ballot
 
-## <p align="center">Front End Developer - React.Js</p>
+## <h5>Front End Developer - React.Js</h5>

@@ -2,10 +2,10 @@
 
 # Installation:
 ## Clone the repository:
-##### git clone
+### git clone
 
 ## Install dependencies:
-# npm install
+### npm install
 
 # Usage:
 ### npm start

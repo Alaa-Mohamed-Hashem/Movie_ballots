@@ -7,6 +7,7 @@
 ### 2- Install dependencies:
 # npm install
 
-# Usage:
 
+
+# Usage:
 ### 1- Clone the repository:

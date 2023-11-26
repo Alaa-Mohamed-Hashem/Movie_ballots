@@ -3,7 +3,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Alaa-Mohamed-Hashem/Movie-ballot.git
+   git clone https://github.com/Alaa-Mohamed-Hashem/Movie_ballots.git
 
 1. Install dependencies:
 

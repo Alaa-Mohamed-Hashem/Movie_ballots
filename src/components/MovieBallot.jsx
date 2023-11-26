@@ -2,12 +2,12 @@ import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchBallot } from "../slices/ballotSlice";
 import Category from "./category/Category";
-import { Spinner } from "react-bootstrap";
+import { Alert, Spinner } from "react-bootstrap";
 import SubmitBallot from "./SubmitBallot";
 
 const MovieBallot = () => {
   const dispatch = useDispatch();
-  const { categories, isLoading } = useSelector((state) => state.ballot);
+  const { categories, isLoading, error } = useSelector((state) => state.ballot);
 
   useEffect(() => {
     dispatch(fetchBallot());
@@ -16,6 +16,8 @@ const MovieBallot = () => {
   if (isLoading) return <Spinner animation="border" />;
 
   if (!categories || categories.length === 0) <p>There is no categories</p>;
+
+  if (error) return <Alert variant="danger">{error}</Alert>;
 
   return (
     <>

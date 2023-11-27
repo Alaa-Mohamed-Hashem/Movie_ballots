@@ -15,3 +15,9 @@
 
    ```bash
    npm start
+   
+1. Start the JSON server:
+
+   ```bash
+   npm run server
+   
